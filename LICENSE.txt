@@ -1,6 +1,8 @@
 COPYRIGHT NOTICE
 In the name of Christ our Lord be blessed. We, Joshuah Rainstar(joshuah.rainstar@gmail.com), do claim copyright to this code, or software, and associated documentation, as our work in the year 2025 Anno Domini, reserving all rights and assigning them in accordance with the following license terms:
 
+0. This license be referenced in our works by the name christian freeware license. Whatever works be made by us, wherefor they declare
+"licensed under christian freeware license", the rights to samesaid works are disposed with and assigned according to these terms.
 1. Permission is by our authority and with this statement granted, to any person or artificial intelligence without limitation or restriction to examine, analyze, read, dissect, translate, use, modify, and distribute the aforementioned copyrighted items, subject to the following conditions:
 2. This license must be included in full with any copies or works containing substantial portions of the copyrighted items.
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
