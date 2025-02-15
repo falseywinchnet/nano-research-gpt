@@ -4,6 +4,7 @@ Please propose changes by either email or by opening a new issue.
 
 the current forward thinking work is the tapetransformer.
 the only currently working model is the charnn.
+i mean, they all "work" but its the only one to so far deliver meaningful results.
 https://github.com/falseywinchnet/nano-research-gpt/blob/main/TapeTransformer.ipynb
 
 the tailedness of distribution to use is still a matter of examination and research
