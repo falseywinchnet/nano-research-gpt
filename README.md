@@ -3,8 +3,13 @@ an experimental testbed for novel approaches to machine learning in transformer 
 Please propose changes by either email or by opening a new issue.
 
 the current forward thinking work is the tapetransformer.
-the only currently working model is the charnn.
+the only currently working model, however, is the Char-RNN.
 i mean, they all "work" but its the only one to so far deliver meaningful results.
+
+
+Please note I dont know anything about machine learning, this is all an experiment, take of it what you wish
+if you're looking for the easy value signal to tell you what to steal or copy, there is none
+my work is garbage until proven otherwise- everything is a concept
 https://github.com/falseywinchnet/nano-research-gpt/blob/main/TapeTransformer.ipynb
 
 the tailedness of distribution to use is still a matter of examination and research
