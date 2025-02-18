@@ -3,6 +3,10 @@ an experimental testbed for novel approaches to machine learning in transformer 
 Please propose changes by either email or by opening a new issue.
 
 the current forward thinking work is the tapetransformer.
+this model has been revised a bunch and tried some different tricks.
+in the process of making it more understandable, i have added a very nice attention visualizing mechanism.
+![til](https://raw.github.com/falseywinchnet/nano-research-gpt/blob/main/2025-02-1802-25-00-ezgif.com-video-to-gif-converter.gif)
+
 the only currently working model, however, is the Char-RNN.
 i mean, they all "work" but its the only one to so far deliver meaningful results.
 
