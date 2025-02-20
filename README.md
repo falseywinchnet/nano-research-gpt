@@ -7,6 +7,9 @@ this model has been revised a bunch and tried some different tricks.
 in the process of making it more understandable, i have added a very nice attention visualizing mechanism.
 ![til](./2025-02-1802-25-00-ezgif.com-video-to-gif-converter.gif)
 
+![output](https://github.com/user-attachments/assets/50b6cfd6-cc8c-44ad-b3e1-d078da5fd316)
+the models current structure is a work in progress, but this seems good.
+
 the only currently working model, however, is the Char-RNN.
 i mean, they all "work" but its the only one to so far deliver meaningful results.
 
