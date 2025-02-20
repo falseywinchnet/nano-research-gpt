@@ -44,11 +44,14 @@ but, it can use such a piece of information like a blue print to refine its beha
 after all, doesnt the char-rnn deliver exceptional textual output, albiet output which is only structured well?
 so what if we discipline our model with structural information?
 
-currently model uses just Estimated Total Size (MB): 161.74
-during inference in mixed precision 
-and training is 1934.71
-and an int8 quantized would be under 50mb
-there are 49,879,553 trainable params and no untrainables
+#currently model uses just Estimated Total Size (MB): 161.74
+#during inference in mixed precision 
+#and training is 1934.71
+#and an int8 quantized would be under 50mb
+#there are 49,879,553 trainable params and no untrainables
+#probably anyone could train this on a 3050 or better with at least 8gb of ram
+#it uses 6 for reasons im not sure of, probably cuda crap
+#cause its so tiny it will probably be able to be quantized and run really fast
 
 
 Please note I dont know anything about machine learning, this is all an experiment, take of it what you wish
